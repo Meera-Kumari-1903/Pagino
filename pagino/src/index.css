@@ -1,0 +1,19 @@
+body.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+body.dark-mode .card {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+  color: white;
+}
+
+body.dark-mode .bg-dark {
+  background-color: #1e1e1e !important;
+  color: white;
+}
+
+body.dark-mode .navbar, body.dark-mode .footer {
+  background-color: #1e1e1e !important;
+}
